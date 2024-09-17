@@ -1,4 +1,4 @@
-# JigMorph
+# JigMorph WIP
 
 This project is a Rust implementation of a jigsaw puzzle solver inspired by [Matt Parkers' video](https://www.youtube.com/watch?v=b5nElEbbnfU). The program generates jigsaw puzzles with customizable settings and attempts to find as many combinations of pieces that forms multiple solutions. It also creates visual representations of the solutions using images.
 
